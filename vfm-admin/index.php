@@ -10,6 +10,7 @@
  * @copyright 2013-2023 Nicola Franchini
  * @license   Exclusively sold on CodeCanyon
  * @link      http://filemanager.veno.it/
+ * Test
  */
 define('VFM_APP', true);
 require_once 'admin-panel/view/admin-head.php';
