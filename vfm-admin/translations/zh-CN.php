@@ -75,6 +75,7 @@
   'disabled' => '已禁用',
   'display_breadcrumbs' => '导航',
   'download' => '下载',
+  'ROTO' => '湖',
   'download_files' => '下载档案',
   'downloads' => '下载',
   'drag_files' => '这里将文件拖动',

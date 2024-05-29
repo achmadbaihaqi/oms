@@ -75,6 +75,7 @@
   'disabled' => 'معاق',
   'display_breadcrumbs' => 'عرض الاجزاء الصغيرة',
   'download' => 'تحميل',
+  'ROTO' => 'روٹو',
   'download_files' => 'تحميل ملفات',
   'downloads' => 'التحميلات',
   'drag_files' => 'ارفع الملفات الى هنا',

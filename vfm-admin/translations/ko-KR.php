@@ -75,6 +75,7 @@
   'disabled' => '장애인',
   'display_breadcrumbs' => '이동 경로 표시',
   'download' => '다운로드',
+  'ROTO' => '로토',
   'download_files' => '파일 다운로드',
   'downloads' => '다운로드',
   'drag_files' => '이곳에 파일을 그래그',

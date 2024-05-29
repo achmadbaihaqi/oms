@@ -75,6 +75,7 @@
   'disabled' => 'devre dışı',
   'display_breadcrumbs' => 'Yerimlerini Göster',
   'download' => 'İndir',
+  'ROTO' => 'Roto',
   'download_files' => 'Dosyaları indir',
   'downloads' => 'İndirmeler',
   'drag_files' => 'Dosyaları buraya sürükleyin',

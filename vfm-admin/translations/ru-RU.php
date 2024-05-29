@@ -75,6 +75,7 @@
   'disabled' => 'Отключено',
   'display_breadcrumbs' => 'Показывать путь до файла',
   'download' => 'Скачать',
+  'ROTO' => 'Озеро',
   'download_files' => 'Скачать файлы',
   'downloads' => 'Загрузок',
   'drag_files' => 'Перетащите файлы',

@@ -75,6 +75,7 @@
   'disabled' => 'Desactivat',
   'display_breadcrumbs' => 'Breadcrumbs',
   'download' => 'Descàrrega',
+  'ROTO' => 'Roto',
   'download_files' => 'Descarregueu fitxers',
   'downloads' => 'Descàrregues',
   'drag_files' => 'Arrossegueu els fitxers aquí',

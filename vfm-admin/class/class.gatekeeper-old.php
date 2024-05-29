@@ -251,7 +251,6 @@ if (!class_exists('GateKeeper', false)) {
                     'view_enable',
                     'viewdirs_enable',
                     'download_enable',
-                    'roto_enable',
                 );
 
                 // Base actions true for all except Guest and User

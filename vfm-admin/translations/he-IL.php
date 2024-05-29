@@ -75,6 +75,7 @@
   'disabled' => 'נָכֶה',
   'display_breadcrumbs' => 'הצג ברדקראמבס(פירורי לחם)',
   'download' => 'הורדה',
+  'ROTO' => 'אֲגַם',
   'download_files' => 'להוריד קבצים',
   'downloads' => 'הורדות',
   'drag_files' => 'גרור קבצים לפה',

@@ -75,6 +75,7 @@
   'disabled' => 'Deshabilitado',
   'display_breadcrumbs' => 'Muestra caminos',
   'download' => 'Descarga',
+  'ROTO' => 'Lago',
   'download_files' => 'Descargar archivos',
   'downloads' => 'Downloads',
   'drag_files' => 'Arrastre los archivos aqui',

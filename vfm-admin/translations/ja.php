@@ -75,6 +75,7 @@
   'disabled' => '無効化',
   'display_breadcrumbs' => 'フォルダ階層を表示する',
   'download' => 'ダウンロード',
+  'ROTO' => '湖',
   'download_files' => 'ファイルのダウンロード',
   'downloads' => 'ダウンロード',
   'drag_files' => 'ここにファイルをドラッグ',

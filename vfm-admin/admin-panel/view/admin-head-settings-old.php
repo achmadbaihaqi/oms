@@ -184,7 +184,6 @@ if (isset($_SERVER['REQUEST_METHOD']) && $_SERVER['REQUEST_METHOD'] == 'POST') {
     $_CONFIG['rename_enable'] = (isset($_POST['rename_enable']) ? true : false);
     $_CONFIG['move_enable'] = (isset($_POST['move_enable']) ? true : false);
     $_CONFIG['copy_enable'] = (isset($_POST['copy_enable']) ? true : false);
-    $_CONFIG['roto_enable'] = (isset($_POST['roto_enable']) ? true : false);
     $_CONFIG['newdir_enable'] = (isset($_POST['newdir_enable']) ? true : false);
     $_CONFIG['delete_dir_enable'] = (isset($_POST['delete_dir_enable']) ? true : false);
     $_CONFIG['rename_dir_enable'] = (isset($_POST['rename_dir_enable']) ? true : false);
@@ -202,7 +201,6 @@ if (isset($_SERVER['REQUEST_METHOD']) && $_SERVER['REQUEST_METHOD'] == 'POST') {
             $_CONFIG['rename_enable_'.$role] = (isset($_POST['rename_enable_'.$role]) ? true : false);
             $_CONFIG['move_enable_'.$role] = (isset($_POST['move_enable_'.$role]) ? true : false);
             $_CONFIG['copy_enable_'.$role] = (isset($_POST['copy_enable_'.$role]) ? true : false);
-            $_CONFIG['roto_enable_'.$role] = (isset($_POST['roto_enable_'.$role]) ? true : false);
             $_CONFIG['newdir_enable_'.$role] = (isset($_POST['newdir_enable_'.$role]) ? true : false);
             $_CONFIG['delete_dir_enable_'.$role] = (isset($_POST['delete_dir_enable_'.$role]) ? true : false);
             $_CONFIG['rename_dir_enable_'.$role] = (isset($_POST['rename_dir_enable_'.$role]) ? true : false);

@@ -75,6 +75,7 @@
   'disabled' => 'Dezactivat',
   'display_breadcrumbs' => 'Afisează breadcrumbs',
   'download' => 'Descarcă fișiere',
+  'ROTO' => 'Roto',
   'download_files' => 'Descărcați fișiere',
   'downloads' => 'Descărcări',
   'drag_files' => 'Trage fișierele aici',

@@ -75,6 +75,7 @@
   'disabled' => 'Disattivato',
   'display_breadcrumbs' => 'visualizza percorsi cartelle',
   'download' => 'Scarica',
+  'ROTO' => 'Lago',
   'download_files' => 'Scaricare i file',
   'downloads' => 'Downloads',
   'drag_files' => 'Trascina i file qui',

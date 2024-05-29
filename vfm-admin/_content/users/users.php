@@ -4,7 +4,7 @@
   0 => 
   array (
     'name' => 'admin',
-    'pass' => '$1$8wMVhVIk$c8q7SBlJYT.pFinww.bgw/',
+    'pass' => '$1$t6DAArq7$p6Cw8xOIapy4Psy/qPjy1/',
     'role' => 'superadmin',
   ),
   1 => 
@@ -14,5 +14,12 @@
     'role' => 'user',
     'disabled' => false,
     'email' => 'achsan@gmail.com',
+  ),
+  2 => 
+  array (
+    'name' => 'ramavatar092@gmail.com',
+    'pass' => '$1$CHsKekRv$Rd2zoPq2iVMm21q3kA0Sc1',
+    'role' => 'user',
+    'disabled' => false,
   ),
 );

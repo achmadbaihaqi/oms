@@ -75,6 +75,7 @@
   'disabled' => 'Désactivé',
   'display_breadcrumbs' => 'affichage des raccourcis',
   'download' => 'Télécharger',
+  'ROTO' => 'Roto',
   'download_files' => 'Télécharger les fichiers',
   'downloads' => 'Téléchargements',
   'drag_files' => 'Glissez les fichiers ici',

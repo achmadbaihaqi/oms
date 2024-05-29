@@ -75,6 +75,7 @@
   'disabled' => 'uitgeschakeld',
   'display_breadcrumbs' => 'Weergeven van kruimelpad',
   'download' => 'Download',
+  'ROTO' => 'Roto',
   'download_files' => 'Bestanden downloaden',
   'downloads' => 'Downloads',
   'drag_files' => 'Sleep bestanden hier',

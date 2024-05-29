@@ -75,6 +75,7 @@
   'disabled' => 'απενεργοποιήθηκε',
   'display_breadcrumbs' => 'Breadcrumbs',
   'download' => 'Λήψη',
+  'ROTO' => 'Róto',
   'download_files' => 'Λήψη αρχείων',
   'downloads' => 'Λήψεις',
   'drag_files' => 'Σύρρετε τα αρχεία εδώ',

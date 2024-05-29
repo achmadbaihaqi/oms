@@ -75,6 +75,7 @@
   'disabled' => 'Deaktiviert',
   'display_breadcrumbs' => 'Breadcrumb-Navigation anzeigen',
   'download' => 'Herunterladen',
+  'ROTO' => 'Roto',
   'download_files' => 'Dateien herunterladen',
   'downloads' => 'Downloads',
   'drag_files' => 'Dateien hierher ziehen',

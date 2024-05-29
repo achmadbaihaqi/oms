@@ -75,6 +75,7 @@
   'disabled' => 'Inaktiverad',
   'display_breadcrumbs' => 'Breadcrumbs',
   'download' => 'Ladda ner',
+  'ROTO' => 'Roto',
   'download_files' => 'Ladda ner filer',
   'downloads' => 'Nerladdningar',
   'drag_files' => 'Dra och släpp filer',

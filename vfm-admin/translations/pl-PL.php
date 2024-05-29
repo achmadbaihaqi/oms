@@ -75,6 +75,7 @@
   'disabled' => 'Wyłączone ',
   'display_breadcrumbs' => 'Wyświetl ścieżkę',
   'download' => 'Pobierz',
+  'ROTO' => 'Roto',
   'download_files' => 'Pobierz pliki',
   'downloads' => 'Pobierz',
   'drag_files' => 'Przeciągnij pliki tutaj',
